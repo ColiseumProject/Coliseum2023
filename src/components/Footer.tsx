@@ -22,7 +22,7 @@ const Footer = () => {
         <Link href={"/about"}>
           <h5 className="montreal mb-0 text-base text-white">{t("about")}</h5>
         </Link>
-        <Link href={""}>
+        <Link href={"/"}>
           <h5 className="montreal mb-0 text-base text-white">Contact Us</h5>
         </Link>
         <Link href={""}>
